@@ -1,0 +1,3 @@
+<?php
+// logout page
+logout();
